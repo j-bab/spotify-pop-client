@@ -29,18 +29,16 @@ export default {
             items: {
                 type: "string",
                 enum: [
-                    "track",
+                    "album",
                     "artist",
-                    "playlist",
-                    "show",
-                    "episode"
+                    "track",
+                    "playlist"
                 ],
                 enumNames: [
-                    "Song",
+                    "Album",
                     "Artist",
-                    "Playlist",
-                    "Show",
-                    "Episode"
+                    "Song",
+                    "Playlist"
                 ]
             },
             minItems: 1,
