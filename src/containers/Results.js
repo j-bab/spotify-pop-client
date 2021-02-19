@@ -3,10 +3,7 @@ import React from "react";
 import PropTypes from 'prop-types';
 import Tabs from "react-bootstrap/esm/Tabs";
 import Tab from "react-bootstrap/esm/Tab";
-import {Artists} from "./Artists";
-import {Playlists} from "./Playlists";
-import {Tracks} from "./Tracks";
-import {Albums} from "./Albums";
+import {ResultItems} from "./ResultItems";
 
 
 export default class Results extends Component {
@@ -16,20 +13,24 @@ export default class Results extends Component {
 
     render() {
         const {tracks, artists, playlists, albums} = this.props.results;
-        let activeTab = Object.keys(this.props.results)[0];
+        let activeTab = Object.keys(this.props.results)[0],
+            albumItems = (albums && albums.items.length > 0) ? albums.items : [],
+            artistItems = (artists && artists.items.length > 0) ? artists.items : [],
+            trackItems = (tracks && tracks.items.length > 0) ? tracks.items : [],
+            playlistItems = (playlists && playlists.items.length > 0) ? playlists.items : [];
         return <React.Fragment>
             <Tabs defaultActiveKey={activeTab}>
-                <Tab eventKey="albums" title="Albums" disabled={!albums || albums.items.length === 0}>
-                    {albums && albums.items.length > 0 && <Albums items={albums.items}/>}
+                <Tab eventKey="albums" title="Albums" disabled={albumItems.length === 0}>
+                    <ResultItems eventKey="albums" title="Albums" items={albumItems}/>
                 </Tab>
-                <Tab eventKey="artists" title="Artists" disabled={!artists || artists.items.length === 0}>
-                    {artists && artists.items.length > 0 && <Artists items={artists.items}/>}
+                <Tab eventKey="artists" title="Artists" disabled={artistItems.length === 0}>
+                    <ResultItems items={artistItems}/>
                 </Tab>
-                <Tab eventKey="tracks" title="Songs" disabled={!tracks || tracks.items.length === 0}>
-                    {tracks && tracks.items.length > 0 && <Tracks items={tracks.items}/>}
+                <Tab eventKey="tracks" title="Songs" disabled={trackItems.length === 0}>
+                    <ResultItems items={trackItems}/>
                 </Tab>
-                <Tab eventKey="playlists" title="Playlists" disabled={!playlists || playlists.items.length === 0}>
-                    {playlists && playlists.items.length > 0 && <Playlists items={playlists.items}/>}
+                <Tab eventKey="playlists" title="Playlists" disabled={playlistItems.length === 0}>
+                    <ResultItems items={playlistItems}/>
                 </Tab>
             </Tabs>
         </React.Fragment>
