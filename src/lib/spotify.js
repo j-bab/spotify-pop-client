@@ -1,13 +1,13 @@
 import {invokeApi} from "./api";
 
-const buildYear = (year) => (year.to > year.from) ? `${year.from}-${year.to}` : year.from;
+export const buildYear = (year) => (year.to > year.from) ? `${year.from}-${year.to}` : year.from;
 
 /**
  * Combine the search fields into a Spotify friendly query
  * @param formData
  * @returns {string}
  */
-const buildQuery = (formData) => {
+export const buildQuery = (formData) => {
     let {query, released, genre, year} = formData;
     let q = [query];
     if (genre && genre.length) {
