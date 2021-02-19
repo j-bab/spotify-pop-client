@@ -1,0 +1,2689 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays Results Correctly 1`] = `
+Array [
+  <nav
+    className="nav nav-tabs"
+    onKeyDown={[Function]}
+    role="tablist"
+  >
+    <a
+      aria-selected={true}
+      className="nav-item nav-link active"
+      data-rb-event-key="albums"
+      href="#"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="tab"
+    >
+      Albums
+    </a>
+    <a
+      aria-selected={false}
+      className="nav-item nav-link"
+      data-rb-event-key="artists"
+      href="#"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="tab"
+    >
+      Artists
+    </a>
+    <a
+      aria-selected={false}
+      className="nav-item nav-link"
+      data-rb-event-key="tracks"
+      href="#"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="tab"
+    >
+      Songs
+    </a>
+    <a
+      aria-selected={false}
+      className="nav-item nav-link"
+      data-rb-event-key="playlists"
+      href="#"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="tab"
+    >
+      Playlists
+    </a>
+  </nav>,
+  <div
+    className="tab-content"
+  >
+    <div
+      aria-hidden={false}
+      aria-labelledby={null}
+      className="fade tab-pane active show"
+      id={null}
+      role="tabpanel"
+    >
+      <div
+        className="card-columns"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Nicki Minaj
+              </strong>
+              <br />
+              19
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-08-10
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273edbdf62135e9112a98bffa0c"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Of The Clouds
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Tove Lo
+              </strong>
+              <br />
+              16
+               Tracks
+              <br />
+              Released 
+              <em>
+                2014-01-01
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2730ec9ae111708f4b8be932d8b"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Prom Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Beach Bunny
+              </strong>
+              <br />
+              5
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-08-10
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2733c0c7e372cb2de077a7ce789"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen of Da Souf (Extended Version) [Deluxe Version]
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Mulatto
+              </strong>
+              <br />
+              18
+               Tracks
+              <br />
+              Released 
+              <em>
+                2020-12-11
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Lemonade
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Beyoncé
+              </strong>
+              <br />
+              13
+               Tracks
+              <br />
+              Released 
+              <em>
+                2016-04-23
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273a9aa254633575862d7605207"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen of Da Souf
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Mulatto
+              </strong>
+              <br />
+              13
+               Tracks
+              <br />
+              Released 
+              <em>
+                2020-08-21
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              A Night At The Opera (Deluxe Remastered Version)
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen
+              </strong>
+              <br />
+              18
+               Tracks
+              <br />
+              Released 
+              <em>
+                1975-11-21
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen (Deluxe)
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Nicki Minaj
+              </strong>
+              <br />
+              20
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-11-29
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Jazz (Deluxe Remastered Version)
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen
+              </strong>
+              <br />
+              18
+               Tracks
+              <br />
+              Released 
+              <em>
+                1978-11-10
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2730c81460f642e658a1c654a12"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Naija
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen Naija
+              </strong>
+              <br />
+              5
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-07-27
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              The Game (Deluxe Remastered Version)
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen
+              </strong>
+              <br />
+              15
+               Tracks
+              <br />
+              Released 
+              <em>
+                1980-06-27
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              BEYONCÉ [Platinum Edition]
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Beyoncé
+              </strong>
+              <br />
+              20
+               Tracks
+              <br />
+              Released 
+              <em>
+                2014-11-24
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              4
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Beyoncé
+              </strong>
+              <br />
+              14
+               Tracks
+              <br />
+              Released 
+              <em>
+                2011-06-24
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273b1f28bbbca75aecc31bdd306"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Loren Gray
+              </strong>
+              <br />
+              1
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-12-21
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273546d1165b994a8b3449b8cd7"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Little Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Heart
+              </strong>
+              <br />
+              10
+               Tracks
+              <br />
+              Released 
+              <em>
+                1977-05-14
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2730c0a772280a9a4e85669e9f8"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queens Don't
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                RaeLynn
+              </strong>
+              <br />
+              1
+               Tracks
+              <br />
+              Released 
+              <em>
+                2018-03-16
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              The Queen Is Dead
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                The Smiths
+              </strong>
+              <br />
+              10
+               Tracks
+              <br />
+              Released 
+              <em>
+                1986-06-16
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273f7b6f1d6b235e8e70ecc4407"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen 40 Limited Edition Collector's Box Set
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen
+              </strong>
+              <br />
+              83
+               Tracks
+              <br />
+              Released 
+              <em>
+                2011-01-01
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              I AM...SASHA FIERCE
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Beyoncé
+              </strong>
+              <br />
+              16
+               Tracks
+              <br />
+              Released 
+              <em>
+                2008-11-14
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              News Of The World (Deluxe Remastered Version)
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                Queen
+              </strong>
+              <br />
+              16
+               Tracks
+              <br />
+              Released 
+              <em>
+                1977-10-28
+              </em>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden={true}
+      aria-labelledby={null}
+      className="fade tab-pane"
+      id={null}
+      role="tabpanel"
+    >
+      <div
+        className="card-columns"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: classic rock, glam rock, rock
+              <br />
+              <em>
+                32168666
+                 Followers
+              </em>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            90
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/d36cd1848e9a4cdd5cf17a256e138370d02b1f14"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Naija
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: dance pop, pop, pop r&b, r&b, urban contemporary
+              <br />
+              <em>
+                1758243
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ad8b0e5a18a5a443a2678768bd73f59833941abc"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Beyoncé
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: dance pop, pop, pop dance, post-teen pop, r&b
+              <br />
+              <em>
+                26137387
+                 Followers
+              </em>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            89
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/905233ed063a6350613c571e8508b65c3ae98080"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queens of the Stone Age
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: alternative metal, alternative rock, blues rock, modern rock, nu metal, palm desert scene, rock, stoner metal, stoner rock
+              <br />
+              <em>
+                2572506
+                 Followers
+              </em>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            74
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ff4eabfc6691a25a8b43782e80a0ba0781f09a68"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Pen
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: hip pop, lgbtq+ hip hop
+              <br />
+              <em>
+                18841
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/e73d674299c80724ebd3f8e4374a4187073a01e3"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Ivy Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: latin, latin hip hop, rap latina, reggaeton, trap latino, tropical
+              <br />
+              <em>
+                1277549
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/8f0b1267ee4a84e260991c25d136ed4be13a8cbe"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Latifah
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: conscious hip hop, east coast hip hop, hip hop, hip pop, new jersey rap
+              <br />
+              <em>
+                113805
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/f10041558d518ebb60798c570424d5e1e59b61bd"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queensrÿche
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: album rock, glam metal, hard rock, metal, progressive metal, rock, us power metal
+              <br />
+              <em>
+                432108
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queendome Come
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                903
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/54c91273cb532ba799971af1c616a012bb8492d7"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Key
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: pop r&b, trap queen
+              <br />
+              <em>
+                209366
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/37e8072b65def61da8c9af4ea1ecff90e3c6e165"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              QUEEN BEE
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: anime rock, j-pop, j-poprock, j-rock
+              <br />
+              <em>
+                163741
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/90e99eebf5193a0ff86f0b68cfc4374709eb540a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Christine and the Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: art pop, dance pop, electro-pop francais, electropop, metropopolis, shimmer pop
+              <br />
+              <em>
+                562250
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273e398805ffada496e656d51a3"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queenie
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                89
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab54b463ac51f7fb19d8b5d0a50d51684634aba3"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Boss King Records
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                36
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273325d180daf039429547ee3fa"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              QueenMo
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                12219
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/392e0b1630e587480f802d7aa36b26263b5d8b66"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Baby Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: modern alternative pop, uk pop
+              <br />
+              <em>
+                8779
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b2732dda4c5c68e5f9c7a40be67a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen of Apostles
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                97
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/36cda49a9d35d009df7b9456ab687ec0757a37d8"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Benedictines Of Mary, Queen Of Apostles
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: convent, rosary
+              <br />
+              <em>
+                8670
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/d3a5325327534e042312622ea7b955ba45800260"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Ifrica
+            </div>
+            <p
+              className="card-text"
+            >
+              Genres: dancehall, lovers rock, modern reggae, reggae fusion, roots reggae
+              <br />
+              <em>
+                75373
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/a47fbff84010f853dea44bb169300f404563cc35"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queenie
+            </div>
+            <p
+              className="card-text"
+            >
+              <br />
+              <em>
+                594
+                 Followers
+              </em>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden={true}
+      aria-labelledby={null}
+      className="fade tab-pane"
+      id={null}
+      role="tabpanel"
+    >
+      <div
+        className="card-columns"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2730b7c6d46885f7434c99e6d8b"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              queen of broken hearts
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  blackbear
+                </strong>
+              </strong>
+              <br />
+              From the album everything means nothing
+              <p>
+                EXPLICIT CONTENT
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            72
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2739a95e89d24214b94de36ccf7"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Kings & Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Ava Max
+                </strong>
+              </strong>
+              <br />
+              From the album Heaven & Hell
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            83
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273b1f28bbbca75aecc31bdd306"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Loren Gray
+                </strong>
+              </strong>
+              <br />
+              From the album Queen
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273de6bd09b07e2b4af4e409f6c"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Trap Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Fetty Wap
+                </strong>
+              </strong>
+              <br />
+              From the album Fetty Wap (Deluxe)
+              <p>
+                Hover on image to preview
+              </p>
+              <p>
+                EXPLICIT CONTENT
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            72
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Bohemian Rhapsody - Remastered 2011
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Queen
+                </strong>
+              </strong>
+              <br />
+              From the album A Night At The Opera (Deluxe Remastered Version)
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            72
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2730ec9ae111708f4b8be932d8b"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Prom Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Beach Bunny
+                </strong>
+              </strong>
+              <br />
+              From the album Prom Queen
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            74
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2730c0a772280a9a4e85669e9f8"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queens Don't
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  RaeLynn
+                </strong>
+              </strong>
+              <br />
+              From the album Queens Don't
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Dancing Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  ABBA
+                </strong>
+              </strong>
+              <br />
+              From the album Arrival
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            78
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Don't Stop Me Now - Remastered 2011
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Queen
+                </strong>
+              </strong>
+              <br />
+              From the album Jazz (Deluxe Remastered Version)
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            71
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Another One Bites The Dust - Remastered 2011
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Queen
+                </strong>
+              </strong>
+              <br />
+              From the album The Game (Deluxe Remastered Version)
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            Popularity: 
+            71
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2738742ac1739fe46605ec2b735"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Perfect
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Ed Sheeran
+                </strong>
+              </strong>
+              <br />
+              From the album Kings & Queens - Modern Pop Hits
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+          0
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273668a1a1e508d6406daa0179a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen of Mean
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Sarah Jeffery
+                </strong>
+              </strong>
+              <br />
+              From the album Descendants 3 (Original TV Movie Soundtrack)
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2731d523f1dbe584779a4fe9c0f"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen K
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  JBE Relax Music
+                </strong>
+              </strong>
+              <br />
+              From the album Queen K
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273a1e05e1048e2cf2737adf742"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Under Pressure - Remastered 2011
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Queen
+                </strong>
+                <strong>
+                  David Bowie
+                </strong>
+              </strong>
+              <br />
+              From the album Hot Space (Deluxe Remastered Version)
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2735b82a639a05848f834f33c59"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Of My Double Wide Trailer
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Sammy Kershaw
+                </strong>
+              </strong>
+              <br />
+              From the album Haunted Heart
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b2738742ac1739fe46605ec2b735"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Kings & Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Ava Max
+                </strong>
+              </strong>
+              <br />
+              From the album Kings & Queens - Modern Pop Hits
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+          0
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              We Will Rock You - Remastered
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Queen
+                </strong>
+              </strong>
+              <br />
+              From the album News Of The World (Deluxe Remastered Version)
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273ae1f56dbc14d331f5ed454a5"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Kings & Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Ava Max
+                </strong>
+              </strong>
+              <br />
+              From the album A Sky Full of Stars - Modern Pop
+              <p>
+                Hover on image to preview
+              </p>
+            </p>
+          </div>
+          0
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b273f1814f1b76df2fa196e4f45e"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Tings
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Masego
+                </strong>
+                <strong>
+                  Tiffany Gouché
+                </strong>
+              </strong>
+              <br />
+              From the album Lady Lady
+            </p>
+          </div>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            onMouseEnter={[Function]}
+            onMouseLeave={[Function]}
+            src="https://i.scdn.co/image/ab67616d0000b27341b41e6f7924e530a9b00f9c"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Dark Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              by 
+              <strong>
+                <strong>
+                  Lil Uzi Vert
+                </strong>
+              </strong>
+              <br />
+              From the album Luv Is Rage 2
+              <p>
+                Hover on image to preview
+              </p>
+              <p>
+                EXPLICIT CONTENT
+              </p>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-hidden={true}
+      aria-labelledby={null}
+      className="fade tab-pane"
+      id={null}
+      role="tabpanel"
+    >
+      <div
+        className="card-columns"
+      >
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f00000003dd5097b0bbfb59ad715c9749"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            34
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f000000036705dfb8f5445fa4fdddf374"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              This Is Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            62
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb2b093c0a2bb91bbc37ab45fa"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Greatest Hits
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Lone Vilstrup
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            21
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f00000003063fffd00db290e97668b527"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen and Slim Soundtrack Playlist
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            27
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebbbbd26a0703e3ed4b7747cc37"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Best Of
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Queen
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            72
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f000000031e117034167831d5574aba62"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Heavy Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            100
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f0000000368f901d33aecc52497b1433d"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Dancehall Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            75
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://mosaic.scdn.co/640/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b2734b0bf4cad684e0b9edc932eaab67616d0000b27368384dd85fd5e95831252f60ab67616d0000b273f6954c1f074f66907a8c5483"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen radio station
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Humberto Ortiz
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            110
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f0000000327d75fc67f6d2495f72f7d58"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queens of Disco
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            33
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen - Live Aid
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Luis Lozada
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            11
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://mosaic.scdn.co/640/ab67616d0000b273008b06ec71019afd70153889ab67616d0000b27359998815d706661e2c404d9fab67616d0000b273a1e05e1048e2cf2737adf742ab67616d0000b273ce4f1737bc8a646c8c4bd25a"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen/Elton john/ Billy Joel and such 
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Gabby Harmon
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            79
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706f0000000371d8504f6557bf5cc1b2b111"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Galdem - Queens
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Spotify
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            80
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67616d0000b273e8b066f70c206551210d902b"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen – Live AID (Wembly '85)
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Jan Ivy Provily
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            7
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb814510791de5e3d4e43769c7"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Mr Queen OST
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Tam Vu
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            8
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebbeda0f9e48925bed391712293"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen & Slim Soundtrack 2021
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  catherine
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            25
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb9234c1f409fb0e27416180d4"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Eva Queen
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  sanlin
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            16
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb6c7c64261b4124f8bc6a31df"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queens and Castles
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  FAM BASE
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            37
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://mosaic.scdn.co/640/ab67616d0000b2732e6d2fc239d8d63112c323f1ab67616d0000b27331201e115bc96e22de15248bab67616d0000b27375bd5b279542acc2b3c14ccaab67616d0000b2737da91c49472dc9ecd24bb9e2"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Mr. Queen (철인왕후) OST
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  sabadomica
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            11
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb3b9adf48b4a32ff33b6b9db0"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              The Queen's Gambit Soundtrack • Netflix 2020
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Retro Tones
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            95
+             Tracks
+          </h5>
+        </div>
+        <div
+          className="card"
+        >
+          <img
+            className="card-img-top"
+            src="https://i.scdn.co/image/ab67706c0000bebb9c69c5a89bf0fcce671bfd05"
+          />
+          <div
+            className="card-body"
+          >
+            <div
+              className="card-title h5"
+            >
+              Queen Naija - missunderstood: The Diaries Edition
+            </div>
+            <p
+              className="card-text"
+            >
+              <p>
+                By 
+                <strong>
+                  Queen Naija
+                </strong>
+              </p>
+            </p>
+          </div>
+          <h5
+            className="card-header"
+          >
+            66
+             Tracks
+          </h5>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

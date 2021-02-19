@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays Playlist Correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="https://mosaic.scdn.co/640/ab67616d0000b2733ac318439ae56ce048d7bf5dab67616d0000b2734b0bf4cad684e0b9edc932eaab67616d0000b27368384dd85fd5e95831252f60ab67616d0000b273f6954c1f074f66907a8c5483"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Queen radio station
+    </div>
+    <p
+      className="card-text"
+    >
+      <p>
+        By 
+        <strong>
+          Humberto Ortiz
+        </strong>
+      </p>
+    </p>
+  </div>
+  <h5
+    className="card-header"
+  >
+    110
+     Tracks
+  </h5>
+</div>
+`;

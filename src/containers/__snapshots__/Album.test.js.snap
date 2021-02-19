@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays Album Correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Jazz (Deluxe Remastered Version)
+    </div>
+    <p
+      className="card-text"
+    >
+      by 
+      <strong>
+        Queen
+      </strong>
+      <br />
+      18
+       Tracks
+      <br />
+      Released 
+      <em>
+        1978-11-10
+      </em>
+    </p>
+  </div>
+</div>
+`;

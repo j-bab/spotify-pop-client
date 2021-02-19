@@ -1,0 +1,668 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays ResultItems Correctly 1`] = `
+<div
+  className="card-columns"
+>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273540ab7c149079184e8724dc4"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Nicki Minaj
+        </strong>
+        <br />
+        19
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-08-10
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273edbdf62135e9112a98bffa0c"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen Of The Clouds
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Tove Lo
+        </strong>
+        <br />
+        16
+         Tracks
+        <br />
+        Released 
+        <em>
+          2014-01-01
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b2730ec9ae111708f4b8be932d8b"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Prom Queen
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Beach Bunny
+        </strong>
+        <br />
+        5
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-08-10
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b2733c0c7e372cb2de077a7ce789"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen of Da Souf (Extended Version) [Deluxe Version]
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Mulatto
+        </strong>
+        <br />
+        18
+         Tracks
+        <br />
+        Released 
+        <em>
+          2020-12-11
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b27389992f4d7d4ab94937bf9e23"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Lemonade
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Beyoncé
+        </strong>
+        <br />
+        13
+         Tracks
+        <br />
+        Released 
+        <em>
+          2016-04-23
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273a9aa254633575862d7605207"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen of Da Souf
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Mulatto
+        </strong>
+        <br />
+        13
+         Tracks
+        <br />
+        Released 
+        <em>
+          2020-08-21
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273ce4f1737bc8a646c8c4bd25a"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        A Night At The Opera (Deluxe Remastered Version)
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen
+        </strong>
+        <br />
+        18
+         Tracks
+        <br />
+        Released 
+        <em>
+          1975-11-21
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273fc8c64bfc4323ff7ce68fea8"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen (Deluxe)
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Nicki Minaj
+        </strong>
+        <br />
+        20
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-11-29
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273008b06ec71019afd70153889"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Jazz (Deluxe Remastered Version)
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen
+        </strong>
+        <br />
+        18
+         Tracks
+        <br />
+        Released 
+        <em>
+          1978-11-10
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b2730c81460f642e658a1c654a12"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen Naija
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen Naija
+        </strong>
+        <br />
+        5
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-07-27
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b27307744e2ed983efa3e6620a47"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        The Game (Deluxe Remastered Version)
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen
+        </strong>
+        <br />
+        15
+         Tracks
+        <br />
+        Released 
+        <em>
+          1980-06-27
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b2730d1d6e9325275f104f8e33f3"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        BEYONCÉ [Platinum Edition]
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Beyoncé
+        </strong>
+        <br />
+        20
+         Tracks
+        <br />
+        Released 
+        <em>
+          2014-11-24
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273ff5429125128b43572dbdccd"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        4
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Beyoncé
+        </strong>
+        <br />
+        14
+         Tracks
+        <br />
+        Released 
+        <em>
+          2011-06-24
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273b1f28bbbca75aecc31bdd306"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Loren Gray
+        </strong>
+        <br />
+        1
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-12-21
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273546d1165b994a8b3449b8cd7"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Little Queen
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Heart
+        </strong>
+        <br />
+        10
+         Tracks
+        <br />
+        Released 
+        <em>
+          1977-05-14
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b2730c0a772280a9a4e85669e9f8"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queens Don't
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          RaeLynn
+        </strong>
+        <br />
+        1
+         Tracks
+        <br />
+        Released 
+        <em>
+          2018-03-16
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        The Queen Is Dead
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          The Smiths
+        </strong>
+        <br />
+        10
+         Tracks
+        <br />
+        Released 
+        <em>
+          1986-06-16
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273f7b6f1d6b235e8e70ecc4407"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        Queen 40 Limited Edition Collector's Box Set
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen
+        </strong>
+        <br />
+        83
+         Tracks
+        <br />
+        Released 
+        <em>
+          2011-01-01
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b273e13de7b8662b085b0885ffef"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        I AM...SASHA FIERCE
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Beyoncé
+        </strong>
+        <br />
+        16
+         Tracks
+        <br />
+        Released 
+        <em>
+          2008-11-14
+        </em>
+      </p>
+    </div>
+  </div>
+  <div
+    className="card"
+  >
+    <img
+      className="card-img-top"
+      src="https://i.scdn.co/image/ab67616d0000b27393c65b02f4a72cd6eccf446d"
+    />
+    <div
+      className="card-body"
+    >
+      <div
+        className="card-title h5"
+      >
+        News Of The World (Deluxe Remastered Version)
+      </div>
+      <p
+        className="card-text"
+      >
+        by 
+        <strong>
+          Queen
+        </strong>
+        <br />
+        16
+         Tracks
+        <br />
+        Released 
+        <em>
+          1977-10-28
+        </em>
+      </p>
+    </div>
+  </div>
+</div>
+`;

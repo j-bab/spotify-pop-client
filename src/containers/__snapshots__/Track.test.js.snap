@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays Track Correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    src="https://i.scdn.co/image/ab67616d0000b2730c0a772280a9a4e85669e9f8"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Queens Don't
+    </div>
+    <p
+      className="card-text"
+    >
+      by 
+      <strong>
+        <strong>
+          RaeLynn
+        </strong>
+      </strong>
+      <br />
+      From the album Queens Don't
+      <p>
+        Hover on image to preview
+      </p>
+    </p>
+  </div>
+</div>
+`;

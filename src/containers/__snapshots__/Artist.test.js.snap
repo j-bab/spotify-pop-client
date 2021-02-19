@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Displays Artist Correctly 1`] = `
+<div
+  className="card"
+>
+  <img
+    className="card-img-top"
+    src="https://i.scdn.co/image/8f0b1267ee4a84e260991c25d136ed4be13a8cbe"
+  />
+  <div
+    className="card-body"
+  >
+    <div
+      className="card-title h5"
+    >
+      Queen Latifah
+    </div>
+    <p
+      className="card-text"
+    >
+      Genres: conscious hip hop, east coast hip hop, hip hop, hip pop, new jersey rap
+      <br />
+      <em>
+        113805
+         Followers
+      </em>
+    </p>
+  </div>
+</div>
+`;
