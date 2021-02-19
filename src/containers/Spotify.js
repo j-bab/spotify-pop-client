@@ -9,6 +9,8 @@ import {querySpotify} from "../lib/spotify";
 import Alert from "react-bootstrap/esm/Alert";
 import Results from "./Results";
 
+const LastSearchKey = 'lastSearch';
+
 export default class Spotify extends Component {
 
     constructor(props) {
@@ -17,33 +19,39 @@ export default class Spotify extends Component {
         this.state = {
             isLoading: false,
             isError: false,
-            formData:
-                {
-                    "type": [
-                        "track","artist","album","playlist"
-                    ],
-                    "released": "any_time",
-                    "query": "queen"
-                },
+            formData:{},
             results: {},
             title: "",
         };
         this.submitSearch = this.submitSearch.bind(this);
     }
 
-    async submitSearch(jsonFormData) {
-        if (this.state.isLoading) return;
-        let formData = jsonFormData.formData;
+
+    componentWillMount() {
+        let formData = JSON.parse(localStorage.getItem(LastSearchKey));
+        if (localStorage!== null) {
+            this.setState({formData});
+            this.performSearch(formData);
+        }
+    }
+
+    async performSearch(formData){
         this.setState({isLoading: true, isError: false, formData, title: "Searching Spotify..."});
         try {
             let title = `Search results for ${formData.query}`,
                 results = await querySpotify(formData);
-
             this.setState({results, title});
         } catch (e) {
             this.setState({isError: true, title: "An error occurred"});
         }
         this.setState({isLoading: false});
+    }
+
+    async submitSearch(jsonFormData) {
+        if (this.state.isLoading) return;
+        let formData = jsonFormData.formData;
+        localStorage.setItem(LastSearchKey, JSON.stringify(formData));
+        await this.performSearch(formData);
     }
 
     render() {
