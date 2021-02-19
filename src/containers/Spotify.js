@@ -25,7 +25,7 @@ export default class Spotify extends Component {
                     "released": "any_time",
                     "query": "queen"
                 },
-            results: [],
+            results: {},
             title: "",
         };
         this.submitSearch = this.submitSearch.bind(this);
