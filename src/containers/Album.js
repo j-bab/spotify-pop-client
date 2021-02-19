@@ -1,11 +1,10 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
-import CardColumns from "react-bootstrap/esm/CardColumns";
 
-function Album(props) {
+export const Album = (props) => {
     const {artists, images, name, release_date, total_tracks} = props.item;
     let artistNames = artists.map(function (artist, index) {
-        return <span key={index}>{artist.name}</span>;
+        return <strong key={index}>{artist.name}</strong>;
     });
     return <Card>
         <Card.Img variant="top" src={images[0].url}/>
@@ -18,13 +17,4 @@ function Album(props) {
             </Card.Text>
         </Card.Body>
     </Card>;
-}
-
-export function Albums(props) {
-    let {items} = props;
-    return <CardColumns>
-        {items.map(function (item, index) {
-            return <Album key={index} item={item}/>;
-        })}
-    </CardColumns>
-}
+};
