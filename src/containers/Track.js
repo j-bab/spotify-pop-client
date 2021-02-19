@@ -1,11 +1,10 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
-import CardColumns from "react-bootstrap/esm/CardColumns";
 
-function Track(props) {
+export const Track =(props) => {
     const {artists, name, album, popularity, explicit, preview_url} = props.item;
     let artistNames = artists.map(function (artist, index) {
-        return <span key={index}>{artist.name}</span>;
+        return <strong key={index}>{artist.name}</strong>;
     });
     let audio = new Audio(preview_url);
     return <Card>
@@ -16,7 +15,7 @@ function Track(props) {
         />}
         <Card.Body>
             <Card.Title>{name}</Card.Title>
-            <Card.Text>by {artistNames}
+            <Card.Text>by <strong>{artistNames}</strong>
                 <br/>
                 {album && album.name && `From the album ${album.name}`}
                 {preview_url && <p>Hover on image to preview</p>}
@@ -25,15 +24,4 @@ function Track(props) {
         </Card.Body>
         {popularity && popularity > 70 && <Card.Header as="h5">Popularity: {popularity}</Card.Header>}
     </Card>;
-}
-
-
-export function Tracks(props) {
-    let {items} = props;
-    return <CardColumns>
-        {items.map(function (item, index) {
-            return <Track key={index} item={item}/>;
-        })}
-    </CardColumns>
-
-}
+};
