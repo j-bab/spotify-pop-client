@@ -32,6 +32,6 @@ If, quickly after deploying the infrastructure, you navigate to the domain of yo
 This is a temporary dns issue on a newly built distribution and should resolve itself with time.  
 If, after a while, this is still the case, try invalidating the cf distro or redeploying this as the redirect can sometimes be cached.
 
-##Testing
+## Testing
 
 Run `npm run test` to launch the testing suite.  
