@@ -29,7 +29,7 @@ export default class Spotify extends Component {
 
     componentWillMount() {
         let formData = JSON.parse(localStorage.getItem(LastSearchKey));
-        if (localStorage !== null) {
+        if (formData !== null) {
             this.setState({formData});
             this.performSearch(formData);
         }
