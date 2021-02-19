@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
 
-export const Artist = (props) => {
+const Artist = (props) => {
     const {followers, images, name, genres, popularity} = props.item;
 
     return <Card>
@@ -16,4 +16,4 @@ export const Artist = (props) => {
         {popularity && popularity > 70 && <Card.Header as="h5">Popularity: {popularity}</Card.Header>}
     </Card>;
 };
-
+export default Artist;

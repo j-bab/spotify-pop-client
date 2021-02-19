@@ -1,12 +1,12 @@
 import React from "react";
 import CardColumns from "react-bootstrap/esm/CardColumns";
-import {Artist} from "./Artist";
-import {Playlist} from "./Playlist";
-import {Track} from "./Track";
-import {Album} from "./Album";
+import Artist from "./Artist";
+import Playlist from "./Playlist";
+import Track from "./Track";
+import Album from "./Album";
 
 
-export const ResultItems = (props) => <CardColumns>
+const ResultItems = (props) => <CardColumns>
     {props.items.map(function (item, index) {
         switch (item.type) {
             case 'album':
@@ -20,3 +20,4 @@ export const ResultItems = (props) => <CardColumns>
         }
     })}
 </CardColumns>;
+export default ResultItems;

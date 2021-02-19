@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
 
-export const Album = (props) => {
+const Album = (props) => {
     const {artists, images, name, release_date, total_tracks} = props.item;
     let artistNames = artists.map(function (artist, index) {
         return <strong key={index}>{artist.name}</strong>;
@@ -19,3 +19,4 @@ export const Album = (props) => {
         </Card.Body>
     </Card>;
 };
+export default Album;

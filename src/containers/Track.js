@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
 
-export const Track = (props) => {
+const Track = (props) => {
     const {artists, name, album, popularity, explicit, preview_url} = props.item;
     let artistNames = artists.map(function (artist, index) {
         return <strong key={index}>{artist.name}</strong>;
@@ -26,3 +26,4 @@ export const Track = (props) => {
         {popularity && popularity > 70 && <Card.Header as="h5">Popularity: {popularity}</Card.Header>}
     </Card>;
 };
+export default Track;

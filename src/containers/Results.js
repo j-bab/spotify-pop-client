@@ -3,7 +3,7 @@ import React from "react";
 import PropTypes from 'prop-types';
 import Tabs from "react-bootstrap/esm/Tabs";
 import Tab from "react-bootstrap/esm/Tab";
-import {ResultItems} from "./ResultItems";
+import ResultItems from "./ResultItems";
 
 
 export default class Results extends Component {

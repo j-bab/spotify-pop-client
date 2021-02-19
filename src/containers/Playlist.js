@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
 
-export const Playlist = (props) => {
+const Playlist = (props) => {
     const {tracks, images, name, owner} = props.item;
 
     return <Card>
@@ -15,3 +15,4 @@ export const Playlist = (props) => {
         <Card.Header as="h5">{tracks.total} Tracks</Card.Header>
     </Card>;
 };
+export default Playlist;
