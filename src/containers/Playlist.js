@@ -3,6 +3,7 @@ import Card from "react-bootstrap/esm/Card";
 
 export const Playlist = (props) => {
     const {tracks, images, name, owner} = props.item;
+
     return <Card>
         {images && images.length > 0 && <Card.Img variant="top" src={images[0].url}/>}
         <Card.Body>

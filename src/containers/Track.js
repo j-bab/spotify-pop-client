@@ -1,12 +1,13 @@
 import React from "react";
 import Card from "react-bootstrap/esm/Card";
 
-export const Track =(props) => {
+export const Track = (props) => {
     const {artists, name, album, popularity, explicit, preview_url} = props.item;
     let artistNames = artists.map(function (artist, index) {
         return <strong key={index}>{artist.name}</strong>;
     });
     let audio = new Audio(preview_url);
+
     return <Card>
         {album.images && album.images.length > 0
         &&

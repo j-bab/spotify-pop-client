@@ -6,6 +6,7 @@ export const Album = (props) => {
     let artistNames = artists.map(function (artist, index) {
         return <strong key={index}>{artist.name}</strong>;
     });
+
     return <Card>
         <Card.Img variant="top" src={images[0].url}/>
         <Card.Body>

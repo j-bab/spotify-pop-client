@@ -19,7 +19,7 @@ export default class Spotify extends Component {
         this.state = {
             isLoading: false,
             isError: false,
-            formData:{},
+            formData: {},
             results: {},
             title: "",
         };
@@ -29,13 +29,13 @@ export default class Spotify extends Component {
 
     componentWillMount() {
         let formData = JSON.parse(localStorage.getItem(LastSearchKey));
-        if (localStorage!== null) {
+        if (localStorage !== null) {
             this.setState({formData});
             this.performSearch(formData);
         }
     }
 
-    async performSearch(formData){
+    async performSearch(formData) {
         this.setState({isLoading: true, isError: false, formData, title: "Searching Spotify..."});
         try {
             let title = `Search results for ${formData.query}`,
