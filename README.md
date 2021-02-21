@@ -6,7 +6,7 @@ You can test it running live [here](https://dl2yzj7b8qvo8.cloudfront.net/)
 
 ## Configuration and getting started
 
-If you haven't already, first [deploy your infrastructure](https://github.com/j-bab/pop-spotify-serverless):
+If you haven't already, first [deploy your infrastructure](https://github.com/j-bab/spotify-pop-serverless):
 
 in package.json replace the following placeholders with values from the Infrastructure created above:  
 YOUR_BUCKET_NAME - replace this with the name of the s3 AppBucket you wish to deploy to.
